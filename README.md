@@ -7,13 +7,8 @@
 Протестировать online можно здесь:
 
 ```
-https://vue-demo.getyoursite.info/
-```
-
-Работает в Google Chrome для десктопа.
-
-На домене 'https://getyoursite.info/' не установлен SSL сертификат, поэтому может не
-работать на Mozilla Firefox. 
+http://vue-demo.getyoursite.info/
+``` 
 
 Если при тестировании, на странице 'Контакты', вы введете ваш настоящий email, 
 то на вашу почту придёт сообщение. 
