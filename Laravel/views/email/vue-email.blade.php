@@ -32,7 +32,7 @@
         text-decoration: none;
         border-radius: 2px;
         text-align: center;'
-        href="https://vue-demo.getyoursite.info">Вернуться на сайт
+        href="http://vue-demo.getyoursite.info">Вернуться на сайт
       </a>
     </p>
 
