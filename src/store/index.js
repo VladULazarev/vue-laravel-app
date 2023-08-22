@@ -3,7 +3,7 @@ import { createStore } from 'vuex'
 export default createStore({
   state: {
     appName: 'Vue-Laravel App',
-    currentDomain: 'https://deploy.getyoursite.info'
+    currentDomain: 'http://deploy.getyoursite.info'
   },
   getters: {
   },
