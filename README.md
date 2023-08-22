@@ -1,8 +1,8 @@
 ## Vue-Laravel App
 
 При разработке использовались:
- - Frontend - Vue 3.2, Tailwind.
- - Backend - Axios, Api на Laravel (v.10.19.0). 
+ - Frontend - Vue 3.2, Tailwind, Axios.
+ - Backend - Api на Laravel (v.10.19.0). 
 
 Протестировать online можно здесь:
 
